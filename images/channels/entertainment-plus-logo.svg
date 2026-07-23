@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="entGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9333ea" />
+      <stop offset="100%" stop-color="#4c1d95" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="32" fill="url(#entGrad)" />
+  <path d="M70,50 L140,100 L70,150 Z" fill="#f43f5e" />
+  <path d="M125,75 L155,75 M140,60 L140,90" stroke="#ffffff" stroke-width="8" stroke-linecap="round" />
+  <text x="100" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="16" fill="#ffffff" text-anchor="middle" letter-spacing="1">ENTERTAINMENT+</text>
+</svg>

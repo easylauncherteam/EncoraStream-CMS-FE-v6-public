@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="mcBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#831843" />
+      <stop offset="50%" stop-color="#be185d" />
+      <stop offset="100%" stop-color="#4c1d95" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#mcBg)" />
+  <rect x="80" y="80" width="140" height="36" rx="6" fill="#06b6d4" />
+  <text x="150" y="104" font-family="system-ui, sans-serif" font-weight="900" font-size="16" fill="#ffffff" text-anchor="middle" letter-spacing="2">NON-STOP</text>
+  <text x="80" y="240" font-family="system-ui, sans-serif" font-weight="900" font-size="64" fill="#ffffff" letter-spacing="-1">MUSIC CENTRAL</text>
+  <text x="80" y="290" font-family="system-ui, sans-serif" font-weight="500" font-size="24" fill="rgba(255,255,255,0.85)">Live Concerts, Official Music Videos & Charts</text>
+</svg>

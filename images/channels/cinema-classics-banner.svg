@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="ccBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451a03" />
+      <stop offset="50%" stop-color="#78350f" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#ccBg)" />
+  <rect x="80" y="80" width="160" height="36" rx="6" fill="#fbbf24" />
+  <text x="160" y="104" font-family="system-ui, sans-serif" font-weight="900" font-size="16" fill="#451a03" text-anchor="middle" letter-spacing="2">GOLDEN AGE</text>
+  <text x="80" y="240" font-family="system-ui, sans-serif" font-weight="900" font-size="64" fill="#ffffff" letter-spacing="-1">CINEMA CLASSICS</text>
+  <text x="80" y="290" font-family="system-ui, sans-serif" font-weight="500" font-size="24" fill="rgba(255,255,255,0.85)">Timeless Films & Masterpieces of World Cinema</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="kwGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="32" fill="url(#kwGrad)" />
+  <circle cx="70" cy="80" r="30" fill="#facc15" />
+  <circle cx="135" cy="95" r="22" fill="#f43f5e" />
+  <polygon points="100,120 120,80 80,80" fill="#4ade80" />
+  <text x="100" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="18" fill="#ffffff" text-anchor="middle" letter-spacing="1">KIDS WORLD</text>
+</svg>

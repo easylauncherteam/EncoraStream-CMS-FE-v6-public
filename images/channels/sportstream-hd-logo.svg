@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="spGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a" />
+      <stop offset="100%" stop-color="#065f46" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="32" fill="url(#spGrad)" />
+  <path d="M40,140 L110,40 L160,40 L90,140 Z" fill="#eab308" />
+  <path d="M65,140 L135,40 L160,40 L90,140 Z" fill="#ffffff" opacity="0.9" />
+  <text x="100" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="18" fill="#ffffff" text-anchor="middle" letter-spacing="1">SPORTSTREAM</text>
+</svg>

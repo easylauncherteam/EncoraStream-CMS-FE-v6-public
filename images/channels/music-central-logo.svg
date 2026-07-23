@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="mcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#be185d" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="32" fill="url(#mcGrad)" />
+  <circle cx="75" cy="115" r="18" fill="#ffffff" />
+  <circle cx="130" cy="100" r="18" fill="#ffffff" />
+  <rect x="88" y="45" width="10" height="70" fill="#ffffff" />
+  <rect x="143" y="30" width="10" height="70" fill="#ffffff" />
+  <polygon points="88,45 153,30 153,48 88,63" fill="#ffffff" />
+  <text x="100" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="16" fill="#ffffff" text-anchor="middle" letter-spacing="1">MUSIC CENTRAL</text>
+</svg>

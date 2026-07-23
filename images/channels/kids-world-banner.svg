@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="kwBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e" />
+      <stop offset="50%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#065f46" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#kwBg)" />
+  <circle cx="1000" cy="300" r="180" fill="#facc15" opacity="0.3" />
+  <rect x="80" y="80" width="160" height="36" rx="6" fill="#facc15" />
+  <text x="160" y="104" font-family="system-ui, sans-serif" font-weight="900" font-size="16" fill="#0f172a" text-anchor="middle" letter-spacing="2">FAMILY 24/7</text>
+  <text x="80" y="240" font-family="system-ui, sans-serif" font-weight="900" font-size="64" fill="#ffffff" letter-spacing="-1">KIDS WORLD</text>
+  <text x="80" y="290" font-family="system-ui, sans-serif" font-weight="500" font-size="24" fill="rgba(255,255,255,0.9)">Commercial-Free Animated Series & Learning Shows</text>
+</svg>

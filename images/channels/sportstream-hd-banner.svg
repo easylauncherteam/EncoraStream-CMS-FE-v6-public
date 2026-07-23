@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="spBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#022c22" />
+      <stop offset="50%" stop-color="#064e3b" />
+      <stop offset="100%" stop-color="#14532d" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#spBg)" />
+  <!-- Dynamic diagonal stripes -->
+  <polygon points="400,0 600,0 200,720 0,720" fill="rgba(234,179,8,0.15)" />
+  <polygon points="700,0 950,0 550,720 300,720" fill="rgba(255,255,255,0.05)" />
+  <polygon points="1050,0 1280,0 1280,200 900,720 700,720" fill="rgba(22,163,74,0.3)" />
+  <!-- Text content -->
+  <rect x="80" y="80" width="140" height="36" rx="6" fill="#eab308" />
+  <text x="150" y="104" font-family="system-ui, sans-serif" font-weight="900" font-size="16" fill="#0f172a" text-anchor="middle" letter-spacing="2">LIVE SPORTS</text>
+  <text x="80" y="240" font-family="system-ui, sans-serif" font-weight="900" font-size="64" fill="#ffffff" letter-spacing="-1">SPORTSTREAM HD</text>
+  <text x="80" y="290" font-family="system-ui, sans-serif" font-weight="500" font-size="24" fill="rgba(255,255,255,0.85)">Football, Basketball, Tennis & Motorsport in Ultra High Definition</text>
+</svg>

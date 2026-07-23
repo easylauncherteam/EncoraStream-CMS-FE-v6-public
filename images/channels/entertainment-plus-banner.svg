@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="entBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e1065" />
+      <stop offset="50%" stop-color="#581c87" />
+      <stop offset="100%" stop-color="#881337" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#entBg)" />
+  <circle cx="1000" cy="200" r="250" fill="none" stroke="rgba(244,63,94,0.2)" stroke-width="40" />
+  <circle cx="1000" cy="200" r="140" fill="rgba(147,51,234,0.3)" />
+  <text x="80" y="80" font-family="system-ui, sans-serif" font-weight="900" font-size="16" fill="#f43f5e" letter-spacing="2">POPULAR NOW</text>
+  <text x="80" y="240" font-family="system-ui, sans-serif" font-weight="900" font-size="64" fill="#ffffff" letter-spacing="-1">ENTERTAINMENT+</text>
+  <text x="80" y="290" font-family="system-ui, sans-serif" font-weight="500" font-size="24" fill="rgba(255,255,255,0.8)">Celebrity News, Reality TV & Hollywood Specials</text>
+</svg>

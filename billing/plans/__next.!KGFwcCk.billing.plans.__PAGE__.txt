@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/_next/static/chunks/2jjizvaqt9x-l.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ClientPageRoot"]
-3:I[1638,["/_next/static/chunks/2jjizvaqt9x-l.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1f9axs8oltvb3.js","/_next/static/chunks/0czyrma15io85.js","/_next/static/chunks/1yan2m6ib2nvh.js","/_next/static/chunks/3fj7gjdix6eq9.js","/_next/static/chunks/3vpxf19163olj.js","/_next/static/chunks/1cf_nxj2p81l0.js","/_next/static/chunks/0y54eau-ei2xy.js","/_next/static/chunks/2ef_jv0ibsc53.js"],"default"]
+3:I[1638,["/_next/static/chunks/2jjizvaqt9x-l.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1f9axs8oltvb3.js","/_next/static/chunks/0czyrma15io85.js","/_next/static/chunks/1bfr3kqz_o0r9.js","/_next/static/chunks/3fj7gjdix6eq9.js","/_next/static/chunks/2c-3gxhff808w.js","/_next/static/chunks/1cf_nxj2p81l0.js","/_next/static/chunks/0y54eau-ei2xy.js","/_next/static/chunks/2ef_jv0ibsc53.js"],"default"]
 6:I[97367,["/_next/static/chunks/2jjizvaqt9x-l.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0y54eau-ei2xy.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2ef_jv0ibsc53.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HrIyMaYMONoV8t6WQx2HY"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0y54eau-ei2xy.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2ef_jv0ibsc53.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n75-5VxH3TE-crTE1QFe6"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null

@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,69479,s=>{"use strict";var e=s.i(43476),o=s.i(74882);s.s(["default",0,function(){return(0,e.jsx)(o.RolesPermissionsWorkspace,{})}])}]);
